@@ -7,4 +7,7 @@
 # from all over the world each day, but they lack a meaningful way of displaying it. In this challenge, you have been tasked with developing a way to 
 # visualize USGS data that will allow them to better educate the public and other government organizations (and hopefully secure more funding) on issues facing our planet.
 
+![image](https://github.com/user-attachments/assets/9332be4e-ff3d-4667-b542-7de059ba308e)
+
+
 
